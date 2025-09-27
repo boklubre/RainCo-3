@@ -1,0 +1,411 @@
+substitutions:
+  short_name: "22-A660"
+  devicename: "rainco-3"
+  #upper_devicename: "${short_name} - RainCo 3"
+  upper_devicename: "RainCo 3"
+  ip_adress: "10.50.22.62"
+  version: "3.01.00"
+
+
+esphome:
+  name: $devicename
+  name_add_mac_suffix: true
+  friendly_name: $upper_devicename
+
+esp32:
+  board: esp32-s3-devkitc-1
+  framework:
+    type: esp-idf
+
+api:
+  encryption:
+    key: !secret api_key
+
+ota:
+  - platform: esphome
+    password: !secret ota_pwd
+
+# Enable logging
+logger:
+
+web_server:
+  port: 80
+  version: 3
+  log: false
+  local: True
+  include_internal: True
+  sorting_groups: 
+    - id: pump_status
+      name: "Pumps Status"
+      sorting_weight: 1
+
+    - id: cycle_01
+      name: "Cycle 1"
+      sorting_weight: 10
+
+    - id: wifi_status
+      name: "WiFi-Overview"
+      sorting_weight: 90
+
+
+wifi:
+
+  on_connect:
+    - light.turn_on: 
+        id: statusled
+        effect: "Fast Pulse"
+
+  on_disconnect:
+    - light.turn_off: statusled
+
+  use_address: $ip_adress
+  
+  networks:
+    - ssid: !secret wifi_ssid
+      password: !secret wifi_password
+  
+  ap:
+    ssid: "RainCo 3.0 - Fallback"
+    password: !secret wifi_ap_password
+    ap_timeout: 1min 
+
+
+captive_portal:
+
+
+time:
+  #- platform: homeassistant
+   # id: ha_time
+  - platform: sntp
+    id: sntp_time
+
+
+interval:
+ 
+  - interval: 2s
+    then:
+     # - light.toggle: 
+        #  id: statusled
+ 
+
+sun:
+  # https://www.sunrise-and-sunset.com/de/sun/deutschland/bremen
+  latitude: !secret latitude
+  longitude: !secret longitude
+  id: sun_pos
+  on_sunrise:
+    - then:
+        #- logger.log: Good morning!
+    # Custom elevation, will be called shortly after the trigger above.
+    - elevation: 5°
+      then:
+        #- logger.log: Good morning 2!
+  on_sunset:
+    - then:
+        #- logger.log: Good evening!   
+
+
+i2c:
+  - id: i2c_bus
+    sda: GPIO13
+    scl: GPIO15
+    scan: true
+    frequency: 100kHz
+
+ 
+mcp23017:
+  - id: 'mcp23017_hub'
+    i2c_id: i2c_bus
+    address: 0x20
+
+
+#one_wire:
+ # - platform: gpio
+ #   pin: GPIO02
+ #   id: "dallas_1"
+
+
+globals:
+  - id: debug_mode
+    type: bool
+    restore_value: false
+    initial_value: 'true'
+
+  - id: watertank_level
+    type: int
+    restore_value: true
+    initial_value: '0'    # %
+
+  - id: wait_time_after_spray
+    type: int
+    restore_value: false
+    initial_value: '20'    # sec
+
+  - id: run_spray_01
+    type: bool
+    restore_value: false
+    initial_value: 'false'
+
+  - id: run_spray_02
+    type: bool
+    restore_value: false
+    initial_value: 'false'
+
+  - id: run_spray_03
+    type: bool
+    restore_value: false
+    initial_value: 'false'
+
+  - id: run_spray_04
+    type: bool
+    restore_value: false
+    initial_value: 'false'
+
+  #- id: spray_time_01
+   # type: int
+    #restore_value: true
+    #initial_value: '3' # s
+
+datetime:
+  - platform: template
+    id: time_daylamp_on
+    type: time
+    name: "Pumpkreis 1"
+    optimistic: yes
+    initial_value: "09:00:00"
+    restore_value: true
+    web_server:
+      sorting_weight: 10
+      sorting_group_id: cycle_01
+  
+  - platform: template
+    id: time_daylamp_off
+    type: time
+    name: "Pumpkreis 2"
+    optimistic: yes
+    initial_value: "15:00:00"
+    restore_value: true
+    web_server:
+      sorting_weight: 15
+      sorting_group_id: cycle_01
+  
+    #on_time:
+     # then:
+        #- switch.turn_on: daylamp
+  
+number:
+  - platform: template
+    name: "Duration 01"
+    id: "spray_duration_01"
+    mode: box
+    unit_of_measurement: s
+    optimistic: true
+    min_value: 5
+    max_value: 300
+    initial_value: 15
+    step: 1
+    restore_value: true
+    web_server:
+      sorting_weight: 5
+      sorting_group_id: cycle_01
+  
+   
+  - platform: template
+    name: "Duration 02"
+    id: "spray_duration_02"
+    mode: box
+    unit_of_measurement: s
+    optimistic: true
+    min_value: 5
+    max_value: 300
+    initial_value: 15
+    step: 1
+    restore_value: true
+
+  - platform: template
+    name: "Duration 03"
+    id: "spray_duration_03"
+    mode: box
+    unit_of_measurement: s
+    optimistic: true
+    min_value: 5
+    max_value: 300
+    initial_value: 15
+    step: 1
+    restore_value: true
+
+  - platform: template
+    name: "Duration 04"
+    id: "spray_duration_04"
+    mode: box
+    unit_of_measurement: s
+    optimistic: true
+    min_value: 5
+    max_value: 300
+    initial_value: 15
+    step: 1
+    restore_value: true
+
+
+button:
+  - platform: safe_mode
+    name: "ZA-Safe Mode Boot"
+    entity_category: diagnostic
+
+  - platform: template
+    name: "Tankmessung"
+    id: tank_level
+    on_press:
+      then:
+      #- script.execute: tank_messung
+        - logger.log: Tankmesung
+  
+  - platform: template
+    name: "AK-Start 1"
+    id: start_01
+    on_press:
+      then:
+        - globals.set:
+            id: run_spray_01
+            value: 'true'
+        - logger.log: Button1 Pressed
+
+  - platform: template
+    name: "AK-Start 2"
+    id: start_02
+    on_press:
+      then:
+        - globals.set:
+            id: run_spray_02
+            value: 'true'
+        - logger.log: Button2 Pressed
+
+  - platform: template
+    name: "AK-Start 3"
+    id: start_03
+    on_press:
+      then:
+        - globals.set:
+            id: run_spray_03
+            value: 'true'
+        - logger.log: Button3 Pressed
+
+  - platform: template
+    name: "AK-Start 4"
+    id: start_04
+    on_press:
+      then:
+        - globals.set:
+            id: run_spray_04
+            value: 'true'
+        - logger.log: Button4 Pressed
+
+
+text_sensor:
+  - platform: version
+    name: "ZA-Version"
+    disabled_by_default: true
+    icon: mdi:cube-outline
+
+  - platform: template
+    name: "ZA-Firmware"
+    disabled_by_default: true
+    lambda: return {"$version"};
+    icon: mdi:cube-outline
+
+  - platform: template
+    name: "ZA-Watertank Level"
+    id: watertank_level_text
+    #lambda: return {id(watertank_level)};
+    icon: mdi:cube-outline
+    
+  - platform: template
+    name: "ZA-Time"
+    lambda: |-
+      auto time_text = id(sntp_time).now().strftime("%H:%M:%S - %d-%m-%Y");
+      return { time_text };
+    update_interval: 11s
+
+  - platform: template
+    name: "ZA-Uptime"
+    id: uptime_human
+    icon: mdi:clock-start
+    disabled_by_default: true
+    update_interval: 61s
+  
+  - platform: wifi_info
+    ip_address:
+      name: "IP Address"
+      web_server:
+        sorting_weight: 10
+        sorting_group_id: wifi_status
+
+    ssid:
+      name: "SSID"
+      web_server:
+        sorting_weight: 15
+        sorting_group_id: wifi_status
+        #
+    mac_address:
+      name: "MAC Address" 
+      web_server:
+        sorting_weight: 20
+        sorting_group_id: wifi_status
+
+    dns_address: 
+      name: "DNS Address"
+      web_server:
+        sorting_weight: 25
+        sorting_group_id: wifi_status
+
+      
+    
+  
+
+
+
+
+
+
+light:
+
+  - platform: esp32_rmt_led_strip
+    id: statusled
+    rgb_order: GRB
+    pin: 21
+    num_leds: 1
+    chipset: SK6812
+    name: "My Light"
+  
+    effects:
+      - pulse:
+          name: "Fast Pulse"
+          transition_length: 0.5s
+          update_interval: 0.5s
+          min_brightness: 0%
+          max_brightness: 100%
+
+ # - platform: neopixelbus
+ #   id: statusled
+  #  internal: true
+  ##  type: GRB
+  #  variant: SK6812
+  #  method: ESP32_RMT_1
+  #  num_leds: 1
+    #pin: GP21IO
+    #name: "${short_name}-AK-Status-LED"  
+    #restore_mode: ALWAYS_OFF 
+    
+    #effects:
+      
+    #  - pulse:
+    #  - pulse:
+         # name: "Fast Pulse"
+        #  transition_length: 0.3s
+         # update_interval: 0.5s
+          
+     # - pulse:
+        #  name: "Slow Pulse"
+          # transition_length: 1s      # defaults to 1s
+       #   update_interval: 2s
+      
