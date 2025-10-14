@@ -6,7 +6,7 @@
 > <br><br>
 I will try to describe all other necessary steps and components as accurately as possible.
 
-<br><br>
+<br>
 
 ## Introduction
 I have been involved in terrarium keeping for decades and have been using sprinkler systems for a long time. Unfortunately, the control methods used to date have not been particularly user-friendly or quick and dynamic to adjust.
