@@ -33,7 +33,7 @@ To create the control times for the individual spray circuits, there are 2 optio
 
 2. In addition, you can control each individual spray circuit with a Home Assistant system and, of course, adjust the spray duration according to your needs.
    
-<br><br>
+<br>
 The connection to Home Assistant in particular offers endless possibilities, including automatic seasonal adjustments to spray times and spray durations.
 
 <br><br>
