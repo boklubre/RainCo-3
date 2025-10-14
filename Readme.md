@@ -52,9 +52,24 @@ The connection to Home Assistant in particular offers endless possibilities, inc
 <br><br>
 
 
+### Required components
+
+
+The following components are required to set up a RainCo system:
+
+• Irrigation system consisting of tank, pump, nozzles, suitable hose connectors and hose supply lines.
+
+• 1 x control board kit
+
+• 1 x ESP32S3A controller 
+
+• 1 x housing (purchased or printed)
+
+• Up to 6 x valves (12V or 24V) incl. cabling
+
+• Printed valve carrier plate, if necessary
 
 
 
 
 
-### A third-level heading
