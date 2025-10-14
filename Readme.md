@@ -3,6 +3,16 @@
 RainCo ist
 
 
+
+<picture>
+  <source srcset="logo.png, logo-1.5x.png 1.5x" />
+  <img src="/../main/images/RainCo-3.02.png" alt="MDN Web Docs logo" height="320" width="320" />
+</picture>
+
+
+<br><br>
+
+
 ![RainCo PCB](/../main/images/RainCo-3.02.png)
 
 
