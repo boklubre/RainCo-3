@@ -2,7 +2,8 @@
 <br>
 
 > [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+> This project is a DIY project! I do not offer complete systems. You can only purchase a kit for the control board from me. All SMD components are already installed. Only the THT components (THT = Through Hole Technology) still need to be soldered.
+I will try to describe all other necessary steps and components as accurately as possible.
 
 ## Introduction
 I have been involved in terrarium keeping for decades and have been using sprinkler systems for a long time. Unfortunately, the control methods used to date have not been particularly user-friendly or quick and dynamic to adjust.
