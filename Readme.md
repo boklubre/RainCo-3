@@ -26,7 +26,11 @@ If this is the case, the maximum number of spray nozzles (depending on the pump'
 <br><br>
 The solution is a control system that can control several valves (spray circuits) in addition to the pumps.
 The control board I developed can control 2 pumps and 6 spray circuits. The firmware was created with ESPHome. 
+
 <br><br>
+![RainCo PCB](/../main/images/RainCo-3.02.png)
+<br><br>
+
 To create the control times for the individual spray circuits, there are 2 options in my approach:
 <br>
 1. A web interface can be used to set up to 3 spray times per spray circuit, each with individual spray durations. <br>
@@ -39,7 +43,7 @@ The connection to Home Assistant in particular offers endless possibilities, inc
 <br><br>
 
 
-![RainCo PCB](/../main/images/RainCo-3.02.png)
+
 
 
 
