@@ -17,7 +17,23 @@ I have been using the current version for about a year and it runs without any p
 
 ## The Idea
 
-
+The conventional setup consists of a pump operating a spray circuit. 
+<br><br>
+A spray circuit can contain several spray nozzles and thus spray several terrariums simultaneously with the same parameters (spray time & spray duration).
+<br><br>
+To operate several spray circuits on one pump, it must be possible to control each individual spray circuit via a valve. 
+If this is the case, the maximum number of spray nozzles (depending on the pump's performance) can be increased many times over by dividing them across several spray circuits!
+<br><br>
+The solution is a control system that can control several valves (spray circuits) in addition to the pumps.
+The control board I developed can control 2 pumps and 6 spray circuits. The firmware was created with ESPHome. 
+<br><br>
+To create the control times for the individual spray circuits, there are 2 options in my approach:
+<br><br>
+1.) A web interface can be used to set up to 3 spray times per spray circuit, each with individual spray durations.  
+<br><br>
+2.)	In addition, you can control each individual spray circuit with a Home Assistant system and, of course, adjust the spray duration according to your needs. 
+<br><br>
+The connection to Home Assistant in particular offers endless possibilities, including automatic seasonal adjustments to spray times and spray durations.
 
 <br><br>
 
