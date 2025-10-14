@@ -28,10 +28,10 @@ The solution is a control system that can control several valves (spray circuits
 The control board I developed can control 2 pumps and 6 spray circuits. The firmware was created with ESPHome. 
 <br><br>
 To create the control times for the individual spray circuits, there are 2 options in my approach:
-<br><br>
-1.) A web interface can be used to set up to 3 spray times per spray circuit, each with individual spray durations.  
-<br><br>
-2.)	In addition, you can control each individual spray circuit with a Home Assistant system and, of course, adjust the spray duration according to your needs. 
+<br>
+1. A web interface can be used to set up to 3 spray times per spray circuit, each with individual spray durations.  
+<br>
+2.	In addition, you can control each individual spray circuit with a Home Assistant system and, of course, adjust the spray duration according to your needs. 
 <br><br>
 The connection to Home Assistant in particular offers endless possibilities, including automatic seasonal adjustments to spray times and spray durations.
 
