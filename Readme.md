@@ -70,7 +70,7 @@ The ESPHome program I developed is available for download as source code and com
 
 Anyone is also free to use the hardware suggested here and create their own firmware with a programming environment of their choice. I have tried to document the hardware to the best of my knowledge so that adaptation should be relatively easy.
 
-<br><br>
+<br>
 
 ## ESP32-Controller
 
@@ -80,9 +80,9 @@ The M5StampS3A must be purchased separately. It can be purchased for a small amo
 <br><br>
 This controller is available in three different versions.
 
-• Without header pins
-• With 2.54 header pins
-• With 1.27 header pins
+* Without header pins
+* With 2.54 header pins
+* With 1.27 header pins
 
 The controller with 1.27 header pins is required!
 <br><br>
