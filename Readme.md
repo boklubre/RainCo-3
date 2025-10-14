@@ -28,7 +28,9 @@ The solution is a control system that can control several valves (spray circuits
 The control board I developed can control 2 pumps and 6 spray circuits. The firmware was created with ESPHome. 
 
 <br>
+
 ![RainCo PCB](/../main/images/RainCo-3.02.png)
+
 <br>
 
 To create the control times for the individual spray circuits, there are 2 options in my approach:
