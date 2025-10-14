@@ -78,12 +78,10 @@ The core component is an ESP32-S3 chip. More specifically, it is an M5StampS3A c
 <br><br>
 The M5StampS3A must be purchased separately. It can be purchased for a small amount of money (approx. $12-14 plus shipping costs) from the manufacturer's online store or from local distributors. 
 <br><br>
-This controller is available in three different versions.
-
-* Without header pins
-* With 2.54 header pins
-* With 1.27 header pins
-
+This controller is available in three different versions:
+* without header pins
+* with 2.54 header pins
+* with 1.27 header pins
 The controller with 1.27 header pins is required!
 <br><br>
 
