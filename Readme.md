@@ -52,7 +52,7 @@ The connection to Home Assistant in particular offers endless possibilities, inc
 <br><br>
 
 
-### Required components
+## Required components
 
 
 The following components are required to set up a RainCo system:
