@@ -5,7 +5,7 @@ RainCo ist
 
 
 <picture>
-  <source srcset="logo.png, logo-1.5x.png 1.5x" />
+  <source srcset="/../main/images/RainCo-3.02.png" />
   <img src="/../main/images/RainCo-3.02.png" alt="MDN Web Docs logo" height="320" width="320" />
 </picture>
 
