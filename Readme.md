@@ -13,8 +13,8 @@ I would like to present this approach here and share many of my thoughts with th
 <br><br>
 I have named the project ‘RainCo’ for ‘Rain Control’. I am now on version 3.x. The other versions are early developments that still had their weaknesses here and there. 
 I have been using the current version for about a year and it runs without any problems!
-
 <br>
+
 ## The Idea
 
 
