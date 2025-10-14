@@ -52,7 +52,6 @@ The connection to Home Assistant in particular offers endless possibilities, inc
 <br><br>
 
 
-
 ## Firmware
 
 There are various programming options available for programming an ESP32-S3. 
@@ -73,7 +72,6 @@ The ESPHome program I developed is available for download as source code and com
 Anyone is also free to use the hardware suggested here and create their own firmware with a programming environment of their choice. I have tried to document the hardware to the best of my knowledge so that adaptation should be relatively easy.
 
 <br><br>
-
 
 ## Required components
 
