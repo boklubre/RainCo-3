@@ -1,6 +1,9 @@
 # RainCo 3.x
 <br>
 
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
 ## Introduction
 I have been involved in terrarium keeping for decades and have been using sprinkler systems for a long time. Unfortunately, the control methods used to date have not been particularly user-friendly or quick and dynamic to adjust.
 <br><br>
