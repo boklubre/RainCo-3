@@ -27,9 +27,9 @@ If this is the case, the maximum number of spray nozzles (depending on the pump'
 The solution is a control system that can control several valves (spray circuits) in addition to the pumps.
 The control board I developed can control 2 pumps and 6 spray circuits. The firmware was created with ESPHome. 
 
-<br><br>
+<br>
 ![RainCo PCB](/../main/images/RainCo-3.02.png)
-<br><br>
+<br>
 
 To create the control times for the individual spray circuits, there are 2 options in my approach:
 <br>
