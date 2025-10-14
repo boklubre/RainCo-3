@@ -51,7 +51,9 @@ The connection to Home Assistant in particular offers endless possibilities, inc
 
 <br><br>
 
-##Firmware
+
+
+## Firmware
 
 There are various programming options available for programming an ESP32-S3. 
 <br><br>
