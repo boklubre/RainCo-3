@@ -73,6 +73,25 @@ Anyone is also free to use the hardware suggested here and create their own firm
 
 <br><br>
 
+## ESP32-Controller
+
+The core component is an ESP32-S3 chip. More specifically, it is an M5StampS3A controller with 1.27 header pins offered by M5Stack. 
+<br><br>
+The M5StampS3A must be purchased separately. It can be purchased for a small amount of money (approx. $12-14 plus shipping costs) from the manufacturer's online store or from local distributors. 
+<br><br>
+This controller is available in three different versions.
+• Without header pins
+• With 2.54 header pins
+• With 1.27 header pins
+The controller with 1.27 header pins is required!
+<br><br>
+
+The controller is programmed for initial use either via an ESPHome installation (e.g., on a Home Assistant system) or via the ESPHome WebInstaller.
+<br><br>
+
+Once the ESPHome firmware is installed, further updates can be installed via the web interface “Over-the-Air” (OTA).
+<br><br>
+
 ## Required components
 
 
