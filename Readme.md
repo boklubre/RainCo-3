@@ -3,7 +3,7 @@
 RainCo ist
 
 
-![RainCo PCB](https://raw.githubusercontent.com/boklubre/RainCo-3/refs/heads/main/images/RainCo-3.02.png))
+![RainCo PCB](/../main/images/RainCo-3.02.png)
 
 
 # A first-level heading
