@@ -51,7 +51,6 @@ The connection to Home Assistant in particular offers endless possibilities, inc
 
 <br><br>
 
-
 ## Firmware
 
 There are various programming options available for programming an ESP32-S3. 
@@ -80,9 +79,11 @@ The core component is an ESP32-S3 chip. More specifically, it is an M5StampS3A c
 The M5StampS3A must be purchased separately. It can be purchased for a small amount of money (approx. $12-14 plus shipping costs) from the manufacturer's online store or from local distributors. 
 <br><br>
 This controller is available in three different versions.
+
 • Without header pins
 • With 2.54 header pins
 • With 1.27 header pins
+
 The controller with 1.27 header pins is required!
 <br><br>
 
@@ -93,7 +94,6 @@ Once the ESPHome firmware is installed, further updates can be installed via the
 <br><br>
 
 ## Required components
-
 
 The following components are required to set up a RainCo system:
 
