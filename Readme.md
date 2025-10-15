@@ -8,12 +8,6 @@ I will try to describe all other necessary steps and components as accurately as
 
 <br>
 
-Live Demo: [demo](https://example.com){:target="_blank"} //kramdown
-
-Live Demo: [demo](https://example.com){target="_blank"} //markdown
-
-Live Demo: <a href="https://example.com" target="_blank">demo</a> //html
-
 ## Introduction
 I have been involved in terrarium keeping for decades and have been using sprinkler systems for a long time. Unfortunately, the control methods used to date have not been particularly user-friendly or quick and dynamic to adjust.
 <br><br>
