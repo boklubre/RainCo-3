@@ -7,9 +7,6 @@
 I will try to describe all other necessary steps and components as accurately as possible.
 
 <br>
-<a href="https://docs.m5stack.com/en/core/Stamp-S3A" target="_blank" rel="noopener noreferrer">Link</a>
-
-<a href="https://docs.m5stack.com/en/core/Stamp-S3A" target="popup" onclick="window.open('../html-link.htm','name','width=600,height=400')">Open page in new window</a>
 
 ## Introduction
 I have been involved in terrarium keeping for decades and have been using sprinkler systems for a long time. Unfortunately, the control methods used to date have not been particularly user-friendly or quick and dynamic to adjust.
