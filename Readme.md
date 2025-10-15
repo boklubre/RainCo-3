@@ -1,3 +1,6 @@
+markdown_extensions:
+  - attr_list
+
 # RainCo 3.x
 <br>
 
