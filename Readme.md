@@ -36,7 +36,9 @@ The control board I developed can control 2 pumps and 6 spray circuits. The firm
 
 <br>
 
-![RainCo PCB](/../main/img/RainCo-3.02.png)
+<p align="center">
+   <img src="/../main/img/RainCo-3.02.png" width="600" alt="RainCo PCB"/>
+</p>
 
 <br>
 
@@ -86,7 +88,7 @@ The controller with 1.27 header pins is required!
 <br><br>
 
 <p align="center">
-   <img src="/../main/img/M5StampS3A_1200x1200.png" width="800" title="M5StampS3A" alt="M5StampS3A"/>
+   <img src="/../main/img/M5StampS3A_1200x1200.png" width="600" alt="M5StampS3A"/>
 </p>
 
 The controller is programmed for initial use either via an ESPHome installation (e.g., on a Home Assistant system) or via the ESPHome WebInstaller.
