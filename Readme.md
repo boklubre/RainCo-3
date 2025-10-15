@@ -36,7 +36,7 @@ The control board I developed can control 2 pumps and 6 spray circuits. The firm
 
 <br>
 
-![RainCo PCB](/../main/images/RainCo-3.02.png)
+![RainCo PCB](/../main/img/RainCo-3.02.png)
 
 <br>
 
