@@ -92,8 +92,7 @@ The controller with 1.27 header pins is required!
 </p>
 
 The controller is programmed for initial use either via an ESPHome installation (e.g., on a Home Assistant system) or via the ESPHome WebInstaller.
-<br><br>
-
+<br>
 Once the ESPHome firmware is installed, further updates can be installed via the web interface “Over-the-Air” (OTA).
 <br><br>
 
