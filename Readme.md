@@ -85,6 +85,8 @@ This controller is available in three different versions:
 The controller with 1.27 header pins is required!
 <br><br>
 
+![RainCo PCB](/../main/img/M5StampS3A_1200x1200.png)
+
 The controller is programmed for initial use either via an ESPHome installation (e.g., on a Home Assistant system) or via the ESPHome WebInstaller.
 <br><br>
 
