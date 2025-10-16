@@ -7,6 +7,7 @@
 > I will try to describe all other necessary steps and components as accurately as possible.
 
 <br>
+
 > [!NOTE]
 > I am planning another small series of 20-25 pieces for December 2025 - January 2026. 
 > <br><br>
