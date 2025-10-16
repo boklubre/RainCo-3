@@ -9,7 +9,7 @@
 <br>
 
 > [!NOTE]
-> I am planning another small series of 20-25 pieces for December 2025 - January 2026. 
+> I am planning a small series of 20-25 pieces for December 2025 - January 2026. 
 > <br><br>
 > The cost for a kit is €45 plus shipping (€7 within Germany, €15 within the European Union; insured parcel in each case).
 > <br><br>
