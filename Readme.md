@@ -120,7 +120,7 @@ Once the ESPHome firmware is installed, further updates can be installed via the
 
 
 <p align="center">
-   <img src="/../main/img/Valve-Plate-4-01.png" width="600" alt="ESP32-S3 - Dev-Board - Pin Out"/>
+   <img src="/../main/img/Valve-Plate-4-01.png" width="600" alt="Valve Board"/>
 </p>
 <br><br>
 
@@ -129,7 +129,7 @@ Once the ESPHome firmware is installed, further updates can be installed via the
 
 
 <p align="center">
-   <img src="/../main/img/Valve-Plate-4-01.png" width="600" alt="ESP32-S3 - Dev-Board - Pin Out"/>
+   <img src="/../main/img/Valve-Plate-4-02.png" width="600" alt="Valve Board"/>
 </p>
 <br><br>
 
