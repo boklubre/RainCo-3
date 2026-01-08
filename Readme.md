@@ -116,6 +116,24 @@ Once the ESPHome firmware is installed, further updates can be installed via the
 <br><br>
 
 
+<br><br>
+
+
+<p align="center">
+   <img src="/../main/img/Valve-Plate-4-01.png" width="600" alt="ESP32-S3 - Dev-Board - Pin Out"/>
+</p>
+<br><br>
+
+
+<br><br>
+
+
+<p align="center">
+   <img src="/../main/img/Valve-Plate-4-01.png" width="600" alt="ESP32-S3 - Dev-Board - Pin Out"/>
+</p>
+<br><br>
+
+
 ## Required components
 
 The following components are required to set up a RainCo system:
