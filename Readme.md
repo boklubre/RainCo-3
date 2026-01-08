@@ -9,7 +9,7 @@
 <br>
 
 > [!NOTE]
-> I am planning a small series of 20-25 pieces for December 2025 - January 2026. 
+> I am planning a small series of 20-25 pieces for Februar - March 2026. 
 > <br><br>
 > The cost for a kit is €45 plus shipping (€7 within Germany, €15 within the European Union; insured parcel in each case).
 > <br><br>
@@ -46,7 +46,7 @@ The control board I developed can control 2 pumps and 6 spray circuits. The firm
 <br>
 
 <p align="center">
-   <img src="/../main/img/RainCo-3.02.png" width="600" alt="RainCo PCB"/>
+   <img src="/../main/img/RainCo 308 - 3D Image - 2.png" width="600" alt="RainCo PCB"/>
 </p>
 
 <br>
