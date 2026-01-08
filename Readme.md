@@ -97,12 +97,19 @@ The controller with 1.27 header pins is required!
 <br><br>
 
 <p align="center">
-   <img src="/../main/img/M5StampS3A_1200x1200.png" width="600" alt="M5StampS3A"/>
+   <img src="/../main/img/ESP32-s3-devboard.jpg" width="600" alt="M5StampS3A"/>
 </p>
 
 The controller is programmed for initial use either via an ESPHome installation (e.g., on a Home Assistant system) or via the ESPHome WebInstaller.
 Once the ESPHome firmware is installed, further updates can be installed via the web interface “Over-the-Air” (OTA).
 <br><br>
+
+
+<p align="center">
+   <img src="/../main/img/ESP32-s3-devboard-PinOut.jpg" width="600" alt="M5StampS3A"/>
+</p>
+<br><br>
+
 
 ## Required components
 
