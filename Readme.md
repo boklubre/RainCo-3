@@ -146,7 +146,7 @@ The following components are required to set up a RainCo system:
 
 • 1 x housing (purchased or printed)
 
-• Up to 6 x valves (12V or 24V) incl. cabling
+• Up to 6 x valves (24V) incl. cabling
 
 • Printed valve carrier plate, if necessary
 
