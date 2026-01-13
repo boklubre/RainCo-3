@@ -125,14 +125,14 @@ Once the ESPHome firmware is installed, further updates can be installed via the
 <br><br>
 
 ## Valves
-Here you find infomation about the [Valves](/../main/valves)>
+Here you find infomation about the [Valves](/../main/valves).
 
 
 <br><br>
 
 
 ## Required Haousing
-Hers you find more information about then [Housing](/../main/housing)
+Hers you find more information about then [Housing](/../main/housing).
 
 <br><br>
 
