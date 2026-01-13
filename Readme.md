@@ -1,4 +1,5 @@
-
+# RainCo 3.x
+<br>
 
 <p align="center">
    <img src="/../main/img/Header.png" width="600" alt="Header"/>
@@ -6,8 +7,7 @@
 
 <br><br>
 
-# RainCo 3.x
-<br>
+
 
 > [!CAUTION]
 > This project is a DIY project! I do not offer complete systems. You can only purchase a kit for the control board from me. All SMD components are already installed. Only the THT components (THT = Through Hole Technology) still need to be soldered.
