@@ -11,7 +11,12 @@ The valves used should be suitable for drinking water and for the pressure suppl
 <br><br>
 
 I have had very good experiences with valves for osmosis systems. These are inexpensive and can be purchased from Amazon (€14-18) or AliExpress (€5-8), among others. These valves often have a connection for 6mm hoses. They are available from various suppliers/manufacturers/brands, with or without a 6 mm hose connection and for different voltages. So be careful when buying.
-It is important to ensure that the valves used are designed for 24 V!
+
+> [!IMPORTANT]
+> It is important to ensure that the valves used are designed for 24 V!
+
+
+<br><br>
 
 <p align="center">
    <img src="/../main/img/Osmose-Ventil-01.png" width="600" alt="Valve Board"/>
