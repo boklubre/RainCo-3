@@ -26,7 +26,7 @@
 
 
 <p align="center">
-   <img src="/../main/img/FpardalisRain.png" width="600" alt="RainCo PCB"/>
+   <img src="/../main/img/FpardalisRain.png" width="300" alt="RainCo PCB"/>
 </p>
 
 ## Introduction
