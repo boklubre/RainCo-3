@@ -18,22 +18,15 @@ It is important to ensure that the valves used are designed for 24 V!
 
 Here you can see the mounting plate for 4 valves, complete with cables, hoses and electrical distribution board. 
 
-
 <p align="center">
    <img src="/../main/img/Valve-Plate-4-01.png" width="600" alt="Valve Board"/>
 </p>
 <br><br>
 
-
-
 <br><br>
-
-
-<br><br>
-
 
 <p align="center">
-   <img src="/../main/img/Valve-Plate-4-01.png" width="600" alt="Valve Board"/>
+   <img src="/../main/img/Valve-Plate-4-02.png" width="600" alt="Valve Board"/>
 </p>
 <br><br>
 
