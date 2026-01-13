@@ -1,12 +1,11 @@
 # RainCo 3.x
-<br>
+<br><br>
 
 <p align="center">
-   <img src="/../main/img/Header.png" width="600" alt="Header"/>
+   <img src="/../main/img/Header.png" width="1200" alt="Header"/>
 </p>
 
 <br><br>
-
 
 
 > [!CAUTION]
