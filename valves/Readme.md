@@ -23,8 +23,6 @@ Here you can see the mounting plate for 4 valves, complete with cables, hoses an
 </p>
 <br><br>
 
-<br><br>
-
 <p align="center">
    <img src="/../main/img/Valve-Plate-4-02.png" width="600" alt="Valve Board"/>
 </p>
