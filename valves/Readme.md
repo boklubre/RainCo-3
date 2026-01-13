@@ -1,6 +1,5 @@
 # RainCo 3 - Valves
 
-## Valves
 <br>
 
 We need valves to control different spray circuits. RainCo 3.0 can control up to 6 valves, enabling 6 spray circuits to be implemented.
