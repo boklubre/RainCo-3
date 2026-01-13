@@ -124,21 +124,17 @@ Once the ESPHome firmware is installed, further updates can be installed via the
 
 <br><br>
 
-
-<p align="center">
-   <img src="/../main/img/Valve-Plate-4-01.png" width="600" alt="Valve Board"/>
-</p>
-<br><br>
+## Valves
+Here you find infomation about the [Valves](/../main/valves)>
 
 
 <br><br>
 
 
-<p align="center">
-   <img src="/../main/img/Valve-Plate-4-02.png" width="600" alt="Valve Board"/>
-</p>
-<br><br>
+## Required Haousing
+Hers you find more information about then [Housing](/../main/housing)
 
+<br><br>
 
 ## Required components
 
