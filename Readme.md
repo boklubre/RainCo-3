@@ -22,11 +22,6 @@
 > <br><br>
 > If you are interested, please feel free to contact me.
 
-<br><br>
-
-Here you find infomation about the [Valves](/../main/valves).
-<br>
-Hers you find more information about then [Housing](/../main/housing).
 
 <br>
 
