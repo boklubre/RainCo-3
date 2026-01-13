@@ -9,7 +9,7 @@ Valves
 We need valves to control different spray circuits. RainCo 3.0 can control up to 6 valves, enabling 6 spray circuits to be implemented.
 <br><br>
 
-There are many different suitable valves available from a wide range of manufacturers! Among others, you can also take a look at MSR-[Magnetventile]([/../main/](https://www.mrs-shop.com/magnetventile)).
+There are many different suitable valves available from a wide range of manufacturers! Among others, you can also take a look at MSR-[Magnetventile](https://www.mrs-shop.com/magnetventile).
 The valves used should be suitable for drinking water and for the pressure supplied by the pump. Furthermore, they should be designed for a DC voltage of 24 volts and be normally closed. The valve coil should draw a maximum of 800mA when open.
 <br><br>
 
