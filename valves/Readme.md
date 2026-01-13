@@ -27,6 +27,12 @@ I have had very good experiences with valves for osmosis systems. These are inex
 
 Here you can see the mounting plate for 4 valves, complete with cables, hoses and electrical distribution board. 
 
+
+<p align="center">
+   <img src="/../main/img/Valve-Plate-4-03.png" width="600" alt="Valve Board"/>
+</p>
+<br><br>
+
 <p align="center">
    <img src="/../main/img/Valve-Plate-4-01.png" width="600" alt="Valve Board"/>
 </p>
@@ -42,6 +48,12 @@ Here you can see the mounting plate for 4 valves, complete with cables, hoses an
 
 
 This is the carrier board for 2 valves, including the electrical distribution board.
+
+<p align="center">
+   <img src="/../main/img/Valve-Plate-2-02.png" width="600" alt="Valve Board"/>
+</p>
+<br><br>
+
 
 <p align="center">
    <img src="/../main/img/Valve-Plate-2-01.png" width="600" alt="Valve Board"/>
