@@ -2,7 +2,7 @@
 <br><br>
 
 <p align="center">
-   <img src="/../main/img/Header.png" width="1200" alt="Header"/>
+   <img src="/../main/img/Header.png" width="1000" alt="Header"/>
 </p>
 
 <br><br>
