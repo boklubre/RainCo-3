@@ -2,8 +2,6 @@
 
 <br>
 
-<br><br>
-
 The circuit board was originally developed for a housing from TRU COMPONENTS with the designation TC-7910744 (EAN: 4064161075587). To my knowledge, this housing is also available from various retailers. However, this housing still needs to be modified (openings for cables, hole for rotary encoder). 
 
 <p align="center">
@@ -13,6 +11,7 @@ The circuit board was originally developed for a housing from TRU COMPONENTS wit
 
 That is why I have developed a suitable housing that you can print yourself. In addition to the openings for the cables and the hole for the rotary encoder, it also has ventilation openings.
 
+<br><br>
 
 
 <p align="center">
