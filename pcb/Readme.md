@@ -50,16 +50,12 @@ This is how the pin assignment should look:
 <p align="center">
    <img src="/../main/img/ESP32-s3-devboard.jpg" width="600" alt="ESP32-S3 Dev-Board"/>
 </p>
-
-<br><br
+<br><br>
 
 The ESP32-S3 DevBoard is available from various manufacturers, is readily available and can be purchased at a reasonable price from Amazon or AliExpress, for example. The cost is approximately £8-12 per board. 
 <br><br>
 Waveshare offers the compatible [ESP32-S3-DEV-KIT-N16R8](https://www.waveshare.com/esp32-s3-dev-kit-n8r8.htm?sku=28836), which can also be found under this name on Amazon and other retailers. It is slightly more expensive than the generic boards.
 <br><br>
-
-
-
 
 
 <br>
