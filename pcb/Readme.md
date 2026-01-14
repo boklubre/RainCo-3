@@ -59,3 +59,8 @@ Once the ESPHome firmware is installed, further updates can be installed via the
    <img src="/../main/img/ESP32-s3-devboard-PinOut.jpg" width="600" alt="ESP32-S3 - Dev-Board - Pin Out"/>
 </p>
 <br><br
+
+
+<br>
+[Back to Main-Page](/../main/)
+
