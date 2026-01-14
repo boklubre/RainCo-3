@@ -9,7 +9,11 @@
 
 
 > [!CAUTION]
-> This project is a DIY project! I do not offer complete systems. You can only purchase a kit for the control board from me.
+> This project is a DIY project!
+> <br><br>
+I do not offer complete systems.
+> <br><br>
+You can only purchase a kit for the control board from me.
 > <br>
 > All SMD components are already installed. Only the THT components (THT = Through Hole Technology) still need to be soldered.
 > <br><br>
