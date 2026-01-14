@@ -9,8 +9,9 @@ The circuit board was originally developed for a housing from TRU COMPONENTS wit
 </p>
 <br><br>
 
-That is why I have developed a suitable housing that you can print yourself. In addition to the openings for the cables and the hole for the rotary encoder, it also has ventilation openings.
-
+That's why I developed a suitable housing that you can print yourself. In addition to the openings for the cables and the hole for the rotary encoder, it also has ventilation openings. 
+<br>
+Furthermore, the housing is equipped with strain relief for the various cables. 
 <br>
 <p align="center">
    <img src="/../main/img/Housing-bottom-01.png" width="600" alt="Valve Board"/>
