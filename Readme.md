@@ -51,9 +51,16 @@ The project is called ‘RainCo’ for ‘Rain Control’. I am now on version 3
 The current version has been in use for about a year and is running smoothly!
 The system consists of a control board and one or two valve carriers. 
 The whole thing is a DIY project! You should have a little technical expertise and be able to use a soldering iron.
+<br><br>
+
 I do not offer complete functional kits!
+<br>
 However, I try to keep all the necessary steps as simple as possible and explain exactly what to do.
+<br><br>
+
 In my test setups, I use pumps, nozzles, hoses, etc. from M.R.S. – Micro Rain Systems (no, I am not sponsored by them!). Of course, I know that there are other companies that offer very good materials in this area. However, I am currently limiting myself to M.R.S. as I have not had any problems with their products so far.
+<br><br>
+
 
 ## The Idea
 
