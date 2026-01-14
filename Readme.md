@@ -100,22 +100,7 @@ The connection to Home Assistant in particular offers endless possibilities, inc
 
 <br><br>
 
->
 
-
-<br><br>
-
-## Valves
-Here you find infomation about the [Valves](/../main/valves).
-
-
-<br><br>
-
-
-## Required Haousing
-Hers you find more information about then [Housing](/../main/housing).
-
-<br><br>
 
 ## Required components
 
