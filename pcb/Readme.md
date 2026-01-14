@@ -38,8 +38,7 @@ Anyone is also free to use the hardware suggested here and create their own firm
 The core component is an ESP32-S3 DevBoard (N16R8) with the original pin layout and 16MB flash and 8MB PSRAM.
 <br>
 Unfortunately, there are at least two different pin layouts under the name ESP32-S3 DevBoard.
-<br><br>
-
+<br>
 This is how the pin assignment should look:
 <br>
 
@@ -54,10 +53,9 @@ This is how the pin assignment should look:
 
 <br><br
 
-Das ESP32-S3-DevBoard gibt es von verschiedenen Herstellern, ist leicht verfügbar und kann beispielsweise bei Amazon oder AliExpress günstig erworben werden. Die Kosten liegen bei ca. 8-12€ pro Board. 
+The ESP32-S3 DevBoard is available from various manufacturers, is readily available and can be purchased at a reasonable price from Amazon or AliExpress, for example. The cost is approximately £8-12 per board. 
 <br><br>
-Von Waveshare gibt es den kompatiblen ESP32-S3-DEV-KIT-N16R8 [ESP32-S3-DEV-KIT-N16R8](https://www.waveshare.com/esp32-s3-dev-kit-n8r8.htm?sku=28836) der unter dieser Bezeichnung auch bei Amazon und anderen Händlern gefunden werden kann. Er ist etwas teurer als die generischen Boards.
-
+Waveshare offers the compatible [ESP32-S3-DEV-KIT-N16R8](https://www.waveshare.com/esp32-s3-dev-kit-n8r8.htm?sku=28836), which can also be found under this name on Amazon and other retailers. It is slightly more expensive than the generic boards.
 <br><br>
 
 
