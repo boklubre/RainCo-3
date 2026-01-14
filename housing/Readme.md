@@ -28,7 +28,5 @@ There is a window opening in the cover of the housing. This allows the display t
 <br><br>
 
 The print files are available for download.
-
-<br><br>
-
+<br>
 [Back to Main-Page](/../main/)
