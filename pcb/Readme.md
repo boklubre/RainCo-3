@@ -10,6 +10,17 @@
 
 ## Technical informations
 
+* ESP32-S3DevBoard – N16R8
+* OLED display with 128x32 pixels
+* Rotary encoder for operation
+* Connection of up to 2 pumps; for example, a rain pump and a secondary pump
+* Up to 6 valves for up to 6 different spray circuits
+* Connection for water tank monitoring (3 sensors: min, half, max)
+* 3 x connections for sensors for DHT22 or DS18B20; for future use
+* 1 x I2C connection; for future use
+* Condition possible via web interface
+* Controllable via the ‘Home Assistant’ smart home system 
+
 <br><br><br>
 
 
