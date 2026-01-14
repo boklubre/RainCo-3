@@ -35,16 +35,15 @@ Anyone is also free to use the hardware suggested here and create their own firm
 
 ## ESP32-Controller
 
-The core component is an ESP32-S3 chip. More specifically, it is an M5StampS3A controller with 1.27 header pins offered by M5Stack. 
+The core component is an ESP32-S3 DevBoard (N16R8) with the original pin layout and 16MB flash and 8MB PSRAM.
+<br>
+Unfortunately, there are at least two different pin layouts under the name ESP32-S3 DevBoard.
 <br><br>
-The M5StampS3A must be purchased separately. It can be purchased for a small amount of money (approx. $12-14 plus shipping costs) from the manufacturer's online store or from local distributors. 
-<br><br>
-This controller is available in three different versions:
-* without header pins
-* with 2.54 header pins
-* with 1.27 header pins
-The controller with 1.27 header pins is required!
-<br><br>
+
+<p align="center">
+   <img src="/../main/img/ESP32-s3-devboard-PinOut.jpg" width="600" alt="ESP32-S3 - Dev-Board - Pin Out"/>
+</p>
+<br><br
 
 <p align="center">
    <img src="/../main/img/ESP32-s3-devboard.jpg" width="600" alt="ESP32-S3 Dev-Board"/>
@@ -55,10 +54,7 @@ Once the ESPHome firmware is installed, further updates can be installed via the
 <br><br>
 
 
-<p align="center">
-   <img src="/../main/img/ESP32-s3-devboard-PinOut.jpg" width="600" alt="ESP32-S3 - Dev-Board - Pin Out"/>
-</p>
-<br><br
+
 
 
 <br>
