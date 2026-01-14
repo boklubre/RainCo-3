@@ -20,7 +20,6 @@
 * 1 x I2C connection; for future use
 * Condition possible via web interface
 * Controllable via the ‘Home Assistant’ smart home system 
-
 <br><br><br>
 
 
