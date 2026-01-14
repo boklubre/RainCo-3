@@ -48,9 +48,12 @@ Unfortunately, there are at least two different pin layouts under the name ESP32
 <p align="center">
    <img src="/../main/img/ESP32-s3-devboard.jpg" width="600" alt="ESP32-S3 Dev-Board"/>
 </p>
+<br><br
 
-The controller is programmed for initial use either via an ESPHome installation (e.g., on a Home Assistant system) or via the ESPHome WebInstaller.
-Once the ESPHome firmware is installed, further updates can be installed via the web interface “Over-the-Air” (OTA).
+Das ESP32-S3-DevBoard gibt es von verschiedenen Herstellern, ist leicht verfügbar und kann beispielsweise bei Amazon oder AliExpress günstig erworben werden. Die Kosten liegen bei ca. 8-12€ pro Board. 
+<br><br>
+Von Waveshare gibt es den kompatiblen ESP32-S3-DEV-KIT-N16R8 [ESP32-S3-DEV-KIT-N16R8]([/../main/](https://www.waveshare.com/esp32-s3-dev-kit-n8r8.htm?sku=28836)) der unter dieser Bezeichnung auch bei Amazon und anderen Händlern gefunden werden kann. Er ist etwas teurer als die generischen Boards.
+
 <br><br>
 
 
