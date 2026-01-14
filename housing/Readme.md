@@ -19,9 +19,18 @@ That is why I have developed a suitable housing that you can print yourself. In 
 </p>
 <br><br>
 
+There is a window opening in the cover of the housing. This allows the display to be read and the LED to be monitored. A 2-3 mm thick acrylic/plexiglass pane can be glued into this window opening to better protect the circuit board.
+
+
+<br><br>
+
 <p align="center">
    <img src="/../main/img/Housing-top-01.png" width="600" alt="Valve Board"/>
 </p>
+<br><br>
+
+The print files are available for download.
+
 <br><br>
 
 [Back to Main-Page](/../main/)
