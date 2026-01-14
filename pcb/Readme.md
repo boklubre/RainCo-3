@@ -40,6 +40,9 @@ The core component is an ESP32-S3 DevBoard (N16R8) with the original pin layout 
 Unfortunately, there are at least two different pin layouts under the name ESP32-S3 DevBoard.
 <br><br>
 
+This is how the pin assignment should look:
+<br>
+
 <p align="center">
    <img src="/../main/img/ESP32-s3-devboard-PinOut.jpg" width="600" alt="ESP32-S3 - Dev-Board - Pin Out"/>
 </p>
