@@ -11,18 +11,15 @@ The circuit board was originally developed for a housing from TRU COMPONENTS wit
 
 That is why I have developed a suitable housing that you can print yourself. In addition to the openings for the cables and the hole for the rotary encoder, it also has ventilation openings.
 
-<br><br>
-
-
+<br>
 <p align="center">
    <img src="/../main/img/Housing-bottom-01.png" width="600" alt="Valve Board"/>
 </p>
 <br><br>
 
+
 There is a window opening in the cover of the housing. This allows the display to be read and the LED to be monitored. A 2-3 mm thick acrylic/plexiglass pane can be glued into this window opening to better protect the circuit board.
-
-
-<br><br>
+<br>
 
 <p align="center">
    <img src="/../main/img/Housing-top-01.png" width="600" alt="Valve Board"/>
