@@ -45,6 +45,13 @@ The ESP32-S3 DevBoard is available from various manufacturers, is readily availa
 </p>
 <br><br>
 
+The controllers are often available with or without soldered pin headers. 
+<br>
+I always recommend the versions with soldered pin headers. 
+<br>
+They only cost a little more, but they save you some work.
+<br><br>
+
 Waveshare offers the compatible [ESP32-S3-DEV-KIT-N16R8](https://www.waveshare.com/esp32-s3-dev-kit-n8r8.htm?sku=28836), which can also be found under this name on Amazon and other retailers. It is slightly more expensive than the generic boards.
 <br><br><br>
 
