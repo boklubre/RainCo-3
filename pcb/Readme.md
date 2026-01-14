@@ -43,11 +43,13 @@ Unfortunately, there are at least two different pin layouts under the name ESP32
 <p align="center">
    <img src="/../main/img/ESP32-s3-devboard-PinOut.jpg" width="600" alt="ESP32-S3 - Dev-Board - Pin Out"/>
 </p>
+
 <br><br
 
 <p align="center">
    <img src="/../main/img/ESP32-s3-devboard.jpg" width="600" alt="ESP32-S3 Dev-Board"/>
 </p>
+
 <br><br
 
 Das ESP32-S3-DevBoard gibt es von verschiedenen Herstellern, ist leicht verfügbar und kann beispielsweise bei Amazon oder AliExpress günstig erworben werden. Die Kosten liegen bei ca. 8-12€ pro Board. 
