@@ -37,6 +37,7 @@ You can only purchase a kit for the control board from me.
 
 ## Introduction
 I have been involved in terrarium keeping for decades and have been using sprinkler systems for a long time. Unfortunately, the control methods have not been particularly user-friendly or quick and dynamic to adjust.
+<br>
 Even though there are now very good smart sockets with Wi-Fi or Thread that can be easily integrated into most smart home systems, it is still difficult to control them with split-second precision.
 <br><br>
 
