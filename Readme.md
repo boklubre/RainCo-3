@@ -83,7 +83,7 @@ The control board I developed can control 2 pumps and 6 spray circuits. The firm
 <br>
 
 <p align="center">
-   <img src="/../main/img/Valve-Plate-2-02.png" width="600" alt="Valve Board"/>
+   <img src="/../main/img/Valve-Plate-4-01.png" width="600" alt="Valve Board"/>
 </p>
 <br><br>
 
