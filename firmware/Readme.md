@@ -16,7 +16,7 @@ The ESPHome program I developed is available for download as source code and com
 <br><br>
 
 Anyone is also free to use the hardware suggested here and create their own firmware with a programming environment of their choice. I have tried to document the hardware to the best of my knowledge so that adaptation should be relatively easy.
-<br<<br<
+<br><br>
 
 
 [Install the ESPHome firmware for ESP32 via ESPHome Web](https://www.youtube.com/watch?v=J3AVeZCoLK8)
