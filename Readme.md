@@ -106,7 +106,7 @@ The following components are required to set up a RainCo system:
 
 • 1 x [control board kit](/../main/pcb)
 
-• 1 x [ESP32S3-DevBoard](/../main/pcb)
+• 1 x [ESP32S3-DevBoard](/../main/pcb#controller)
 
 • 1 x [housing](/../main/housing) (purchased or printed)
 
