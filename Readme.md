@@ -29,11 +29,7 @@ You can only purchase a kit for the control board from me.
 > If you are interested, please feel free to contact me.
 
 
-<br>
 
-<p align="center">
-   <img src="/../main/img/FpardalisRain.png" width="300" alt="RainCo PCB"/>
-</p>
 
 ## Introduction
 I have been involved in terrarium keeping for decades and have been using sprinkler systems for a long time. Unfortunately, the control methods have not been particularly user-friendly or quick and dynamic to adjust.
@@ -117,6 +113,13 @@ The following components are required to set up a RainCo system:
 • Up to 6 x [valves](/../main/valves) (24V) incl. cabling
 
 • Printed valve [carrier](/../main/valves) plate, if necessary
+
+
+<br>
+
+<p align="center">
+   <img src="/../main/img/FpardalisRain.png" width="600" alt="RainCo PCB"/>
+</p>
 
 
 
