@@ -24,5 +24,5 @@ Anyone is also free to use the hardware suggested here and create their own firm
 
 
 
-[Back to Main-Page](/../main/)
+[Back to Main-Page](/../main/#required_components)
 
