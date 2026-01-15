@@ -1,5 +1,5 @@
 # RainCo - PCB
-<br><br>
+
 
 The RainCo-3 board is simply connected between the power adapter and the pressure pumps. If the original power adapter is not powerful enough, you can ask your misting system supplier for a more powerful one or search for a 24V power adapter on Amazon, for example.
 <br><br>
