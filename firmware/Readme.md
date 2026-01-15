@@ -1,7 +1,5 @@
 # RainCo 3 - Firmware
 
-## Firmware
-
 There are various programming options available for programming an ESP32-S3. 
 <br><br>
 
