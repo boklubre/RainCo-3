@@ -28,7 +28,7 @@ You can only purchase a kit for the control board from me.
 > <br><br>
 > If you are interested, please feel free to contact me.
 
-
+<br>
 
 
 ## Introduction
@@ -115,7 +115,7 @@ The following components are required to set up a RainCo system:
 • Printed valve [carrier](/../main/valves) plate, if necessary
 
 
-<br>
+<br><br>
 
 <p align="center">
    <img src="/../main/img/FpardalisRain.png" width="600" alt="RainCo PCB"/>
