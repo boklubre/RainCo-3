@@ -21,7 +21,7 @@ The RainCo-3 board is simply connected between the power adapter and the pressur
 * Connection for water tank monitoring (3 sensors: min, half, max)
 * 3 x connections for sensors for DHT22 or DS18B20; for future use
 * 1 x I2C connection; for future use
-* Condition possible via web interface
+* Can be operated via a web interface 
 * Controllable via the ‘Home Assistant’ smart home system 
 <br><br><br>
 
