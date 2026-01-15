@@ -23,6 +23,7 @@
 <br><br><br>
 
 
+<a name="controller"></a>
 ## ESP32-Controller
 
 The core component is an ESP32-S3 DevBoard (N16R8) with the original pin layout and 16MB flash and 8MB PSRAM.
