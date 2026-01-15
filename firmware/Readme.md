@@ -1,40 +1,25 @@
 # RainCo 3 - Firmware
 
-<br>
+## Firmware
 
-We need valves to control different spray circuits. RainCo 3.0 can control up to 6 valves, enabling 6 spray circuits to be implemented.
+There are various programming options available for programming an ESP32-S3. 
 <br><br>
 
-There are many different suitable valves available from a wide range of manufacturers! Among others, you can also take a look at [MRS-Magnetventile](https://www.mrs-shop.com/magnetventile).
-The valves used should be suitable for drinking water and for the pressure supplied by the pump. Furthermore, they should be designed for a DC voltage of 24V/DC and be normally closed. The valve coil should draw a maximum of 800mA when open.
+I decided to use [ESPHome](https://esphome.io). The main reason is that it connects very easily to [Home Assistant](https://www.home-assistant.io/), an extremely powerful and easy-to-set-up smart home system. In addition to the irrigation system, Home Assistant also controls all the lighting in my terrariums, with different daylight hours for each season, including overheating protection in summer.
 <br><br>
 
-I have had very good experiences with valves for osmosis systems. These are inexpensive and can be purchased from Amazon (€14-18) or AliExpress (€5-8), among others. These valves often have a connection for 6mm hoses. They are available from various suppliers/manufacturers/brands, with or without a 6 mm hose connection and for different voltages. So be careful when buying.
+But even without Home Assistant, the system can be configured via a web browser, and you can set up to three switching times per day with different spray durations for each spray circuit.
 <br><br>
 
-
-
+However, connecting to Home Assistant gives you much more flexibility in terms of spray times and durations. This allows you to automate different spray times and durations depending on the season (e.g., dry and rainy seasons). The possibilities here are endless.
 <br><br>
 
-<p align="center">
-   <img src="/../main/img/Osmose-Ventil-01.png" width="600" alt="Valve Board"/>
-</p>
-
+The ESPHome program I developed is available for download as source code and compiled file on Github. The source code can be modified and further developed as desired.
 <br><br>
 
-
-Here you can see the mounting plate for 4 valves, complete with cables, hoses and electrical distribution board. 
-
-
-<p align="center">
-   <img src="/../main/img/Valve-Plate-4-03.png" width="600" alt="Valve Board"/>
-</p>
-<br><br>
-
-<br><br>
+Anyone is also free to use the hardware suggested here and create their own firmware with a programming environment of their choice. I have tried to document the hardware to the best of my knowledge so that adaptation should be relatively easy.
+<br<<br<
 
 
 [Back to Main-Page](/../main/)
 
-
-[Back to Main-Page](/../main/)
