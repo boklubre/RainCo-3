@@ -19,5 +19,10 @@ Anyone is also free to use the hardware suggested here and create their own firm
 <br<<br<
 
 
+[Install the ESPHome firmware for ESP32 via ESPHome Web](https://www.youtube.com/watch?v=J3AVeZCoLK8)
+
+
+
+
 [Back to Main-Page](/../main/)
 
