@@ -29,4 +29,4 @@ There is a window opening in the cover of the housing. This allows the display t
 
 The print files are available for download.
 <br>
-[Back to Main-Page](/../main/)
+[Back to Main-Page](/../main/#required_components)
