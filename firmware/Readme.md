@@ -29,6 +29,7 @@ All you need is a PC connected to the internet, a USB-C cable and the ESP32S3 co
 <br><br>
 Then proceed as shown in these instructions: [Install the ESPHome firmware for ESP32 via ESPHome Web](https://www.youtube.com/watch?v=J3AVeZCoLK8)
 <br>
+
 When using the [ESPHome Web tool](https://web.esphome.io/?dashboard_install) and attempting to connect the ESP32S3, several devices may be displayed.
 <br>
 If you are uncertain which device is the correct one, simply disconnect the USB-C plug from the ESP32S3 controller in this view. The correct connection will then disappear and reappear after reconnecting.
