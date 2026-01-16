@@ -48,7 +48,7 @@ The ‘OTA Update’ option can be found at the bottom of the page. To do this, 
 <br>
 The update process takes approximately 3-5 minutes. Normally, all settings should be the same as before after the update and reboot. 
 However, these settings may be lost if certain changes have been made to the firmware. You should therefore always document your settings before the update (e.g. by taking a screenshot of the web interface).
-
+<br><br>
 
 [Back to Main-Page](/../main/#Table_of_contents)
 
