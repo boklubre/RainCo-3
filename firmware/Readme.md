@@ -19,6 +19,16 @@ Anyone is also free to use the hardware suggested here and create their own firm
 <br><br>
 
 
+
+
+## Initial installation of the firmware
+
+If you have a brand new ESP32S3, it must be programmed via the USB-C port the first time you use it. The easiest way to do this is with the [ESPHome Web tool](https://web.esphome.io/?dashboard_install). 
+<br><br>
+All you need is a PC connected to the internet, a USB-C cable and the ESP32S3 controller. There are always two versions of the firmware available for download. One with the extension x.ota.bin and one with the extension x.factory.bin. The x.factory.bin version is required for programming via ESPHome Web. This should be downloaded in advance and saved on your PC.
+<br><br>
+Then proceed as shown in these instructions:
+<br>
 [Install the ESPHome firmware for ESP32 via ESPHome Web](https://www.youtube.com/watch?v=J3AVeZCoLK8)
 
 
