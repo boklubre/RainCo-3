@@ -18,9 +18,7 @@ The ESPHome program I developed is available for download as source code and com
 Anyone is also free to use the hardware suggested here and create their own firmware with a programming environment of their choice. I have tried to document the hardware to the best of my knowledge so that adaptation should be relatively easy.
 <br><br>
 
-
 ## Initial installation of the firmware
-
 If you have an untouched ESP32S3, the firmware must be uploaded via the USB-C socket the first time. The easiest way to do this is with the [ESPHome Web tool](https://web.esphome.io/?dashboard_install). 
 <br><br>
 All you need is a PC connected to the internet, a USB-C cable and the ESP32S3 controller. There are always two versions of the firmware available for download. One with the extension x.ota.bin and one with the extension x.factory.bin. The x.factory.bin version is required for programming via ESPHome Web. This should be downloaded in advance and saved on your PC.
