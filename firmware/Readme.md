@@ -42,5 +42,5 @@ This IP address can be read on the display by pressing the rotary encoder four t
 
 <br><br>
 
-[Back to Main-Page](/../main/#required_components)
+[Back to Main-Page](/../main/#Table_of_contents)
 
