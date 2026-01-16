@@ -24,7 +24,8 @@ You can only purchase a kit for the control board from me.
 > [!NOTE]
 > I am planning a small series of 10-15 pieces for Februar - March 2026. 
 > <br><br>
-> This includes the RainCo-3 circuit board. All SMD components are soldered on. All THT components are supplied separately!
+> This includes the RainCo-3 circuit board. All SMD components are soldered on.
+> All THT components are supplied separately!
 >  <br><br>
 > The ESP32S3 controller is not included!
 > <br><br>
