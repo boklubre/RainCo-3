@@ -19,11 +19,9 @@ Anyone is also free to use the hardware suggested here and create their own firm
 <br><br>
 
 
-
-
 ## Initial installation of the firmware
 
-If you have a brand new ESP32S3, it must be programmed via the USB-C port the first time you use it. The easiest way to do this is with the [ESPHome Web tool](https://web.esphome.io/?dashboard_install). 
+If you have an untouched ESP32S3, the firmware must be uploaded via the USB-C socket the first time. The easiest way to do this is with the [ESPHome Web tool](https://web.esphome.io/?dashboard_install). 
 <br><br>
 All you need is a PC connected to the internet, a USB-C cable and the ESP32S3 controller. There are always two versions of the firmware available for download. One with the extension x.ota.bin and one with the extension x.factory.bin. The x.factory.bin version is required for programming via ESPHome Web. This should be downloaded in advance and saved on your PC.
 <br><br>
@@ -33,6 +31,17 @@ Then proceed as shown in these instructions: [Install the ESPHome firmware for E
 When using the [ESPHome Web tool](https://web.esphome.io/?dashboard_install) and attempting to connect the ESP32S3, several devices may be displayed.
 <br>
 If you are uncertain which device is the correct one, simply disconnect the USB-C plug from the ESP32S3 controller in this view. The correct connection will then disappear and reappear after reconnecting.
+
+<br><br>
+
+## Connecting to your own WiFi
+The easiest way to connect the RainCo-3 system to your own WiFi is to search for the WiFi network ‘RainCo3-AP’ with a mobile phone after uploading the firmware and connect to it.
+<br>
+
+You will then be taken to a page where you can select one of the available WiFi networks. After selecting a WiFi network and entering the corresponding password, RainCo-3 will reboot. It should then be connected to your WiFi and have automatically received an IP address via which the web interface can be accessed.
+<br>
+
+This IP address can be read on the display by pressing the rotary encoder four times. 
 
 <br><br>
 
