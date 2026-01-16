@@ -61,5 +61,5 @@ Waveshare offers the compatible [ESP32-S3-DEV-KIT-N16R8](https://www.waveshare.c
 
 <br>
 
-[Back to Main-Page](/../main/#required_components)
+[Back to Main-Page](/../main/#Table_of_contents)
 
