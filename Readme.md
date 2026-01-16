@@ -30,6 +30,13 @@ You can only purchase a kit for the control board from me.
 
 <br>
 
+## Table of contents
+* PCB
+* Firmware
+* Haousing
+* Valves
+<br>
+
 
 ## Introduction
 I have been involved in terrarium keeping for decades and have been using sprinkler systems for a long time. Unfortunately, the control methods have not been particularly user-friendly or quick and dynamic to adjust.
