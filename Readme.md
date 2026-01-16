@@ -30,11 +30,12 @@ You can only purchase a kit for the control board from me.
 
 <br>
 
+<a name="Table_of_contents"></a>
 ## Table of contents
-* PCB
-* Firmware
-* Haousing
-* Valves
+* [RainCo-3 PCB](/../main/pcb)
+* [Firmware](/../main/firmware)
+* [Housing](/../main/housing)
+* [Valves](/../main/valves)
 <br>
 
 
@@ -104,7 +105,6 @@ The connection to Home Assistant in particular offers endless possibilities, inc
 <br><br>
 
 
-<a name="required_components"></a>
 ## Required components
 
 The following components are required to set up a RainCo system:
