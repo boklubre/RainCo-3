@@ -42,5 +42,15 @@ This IP address can be read on the display by pressing the rotary encoder four t
 
 <br><br>
 
+
+##Updating an existing RainCo-3 system
+Once the firmware is on the ESP32S3 controller, you can upload further firmware updates ‘over the air’ via the RainCo-3 website.
+<br>
+The ‘OTA Update’ option can be found at the bottom of the page. To do this, you need a firmware file with the extension ‘x.ota.bin’. Once you have downloaded this file, you can select the desired file for upload in the web interface and start the update. 
+<br>
+The update process takes approximately 3-5 minutes. Normally, all settings should be the same as before after the update and reboot. 
+However, these settings may be lost if certain changes have been made to the firmware. You should therefore always document your settings before the update (e.g. by taking a screenshot of the web interface).
+
+
 [Back to Main-Page](/../main/#Table_of_contents)
 
