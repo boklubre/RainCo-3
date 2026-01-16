@@ -33,7 +33,7 @@ You can only purchase a kit for the control board from me.
 <a name="Table_of_contents"></a>
 ## Table of contents
 * Introduction
-* [RainCo-3 PCB](/../main/manual)
+* [User Manual](/../main/manual)
 * [RainCo-3 PCB](/../main/pcb)
 * [Firmware](/../main/firmware)
 * [Housing](/../main/housing)
