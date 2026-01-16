@@ -1,7 +1,7 @@
 # RainCo 3 - User Manual
 
 <br>
-
+is still being revised
 
 
 <br><br>
